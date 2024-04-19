@@ -1,4 +1,4 @@
-import { Schema } from "@/types/yoast";
+import { Schema } from "/types/YoastSchema";
 import Script from "next/script";
 
 export default function SchemaInjector({ schema }: { schema: Schema }) {
